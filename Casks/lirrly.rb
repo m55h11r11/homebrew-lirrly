@@ -2,8 +2,7 @@ cask "lirrly" do
   version "0.4.0"
   sha256 "841939a9ee2e866f120ffd3b29b799d0fbebc1e37660753e049714386bef8dfb"
 
-  url "https://github.com/m55h11r11/wispralt/releases/download/v#{version}/Lirrly_#{version}_aarch64.dmg",
-      verified: "github.com/m55h11r11/wispralt/"
+  url "https://github.com/m55h11r11/wispralt/releases/download/v#{version}/Lirrly_#{version}_aarch64.dmg"
   name "Lirrly"
   desc "Voice dictation that pastes clean text into any app"
   homepage "https://lirrly.com/"
