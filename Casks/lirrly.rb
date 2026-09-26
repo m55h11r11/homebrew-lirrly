@@ -1,6 +1,6 @@
 cask "lirrly" do
-  version "0.4.1"
-  sha256 "99f917fd1f588f8f09cf2f9c31fb1fc12d0afbb9773646d51ab7a673a5d45fff"
+  version "0.4.2"
+  sha256 "cdcad08a9b477c4b313fa0506cbaca60e3b49e58a3e0ca3a1fd1552835a5580b"
 
   url "https://github.com/m55h11r11/wispralt/releases/download/v#{version}/Lirrly_#{version}_aarch64.dmg"
   name "Lirrly"
